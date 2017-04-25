@@ -5,4 +5,6 @@
 <li>BeanFactoryPostProcessors</li>
 <li>Custom application context</li>
 <li>Custom bean scope</li>
+<li>MBean and MBeanServer</li>
+<li>Dynamic proxy</li>
 </ul>
