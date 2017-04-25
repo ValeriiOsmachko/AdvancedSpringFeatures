@@ -7,5 +7,5 @@
 <li>Custom bean scope</li>
 <li>MBean and MBeanServer</li>
 <li>Dynamic proxy</li>
-<li>Creation three-phase constructor with BeanPostProcessor, init method(@PostConstruct) and ContextRefreshedEvent listener</li>
+<li>Creation three-phase constructor of bean with BeanPostProcessor, init method(@PostConstruct) and ContextRefreshedEvent listener</li>
 </ul>
